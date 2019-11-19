@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------
+6/26/2019 1:15:17 PM |INFO| Reading the view data. 
+-------------------------------------------------------------------------
+4462344|SG.ITIS-AP-SOM-STUCK ORDERS|
+4464781|SG.ITIS-AP-SOM-STUCK ORDERS|
+4464781|SG.ITIS-AP-SOM-STUCK ORDERS|
+4466631|SG.ITIS-AP-SOM-STUCK ORDERS|
+4468485|SG.ITIS-AP-SOM-STUCK ORDERS|
+4475883|SG.ITIS-AP-SOM-STUCK ORDERS|
+4479680|SG.ITIS-AP-SOM-STUCK ORDERS|
+4515942|SG.ITIS-AP-SOM-STUCK ORDERS|
+-------------------------------------------------------------------------
+TOTAL [8]
+
+-------------------------------------------------------------------------
+6/26/2019 1:15:26 PM |INFO| Transfer the Tickets 
+-------------------------------------------------------------------------
+4462344|Group: cnt:D12D0986006EC04697FAC45FADF18A67|Assignee: 
+Wait [2000] Milli Secs
+4464781|Group: cnt:D12D0986006EC04697FAC45FADF18A67|Assignee: 
+Wait [2000] Milli Secs
+4464781|Group: cnt:D12D0986006EC04697FAC45FADF18A67|Assignee: 
+Wait [2000] Milli Secs
+4466631|Group: cnt:D12D0986006EC04697FAC45FADF18A67|Assignee: 
+Wait [2000] Milli Secs
+4468485|Group: cnt:D12D0986006EC04697FAC45FADF18A67|Assignee: 
+Wait [2000] Milli Secs
+4475883|Group: cnt:D12D0986006EC04697FAC45FADF18A67|Assignee: 
+Wait [2000] Milli Secs
+4479680|Group: cnt:D12D0986006EC04697FAC45FADF18A67|Assignee: 
+Wait [2000] Milli Secs
+4515942|Group: cnt:D12D0986006EC04697FAC45FADF18A67|Assignee: 
+Wait [2000] Milli Secs
+-------------------------------------------------------------------------
+Logout SID [731811029]
+-------------------------------------------------------------------------

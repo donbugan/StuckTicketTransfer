@@ -1,0 +1,5 @@
+C:\ipaccman\UPGRADE\developments\Leon - Stuck Tickets Update\StuckTicketTransfer\StuckTicketTransfer\bin\Debug\StuckTicketTransfer.exe.config
+C:\ipaccman\UPGRADE\developments\Leon - Stuck Tickets Update\StuckTicketTransfer\StuckTicketTransfer\bin\Debug\StuckTicketTransfer.exe
+C:\ipaccman\UPGRADE\developments\Leon - Stuck Tickets Update\StuckTicketTransfer\StuckTicketTransfer\bin\Debug\StuckTicketTransfer.pdb
+C:\ipaccman\UPGRADE\developments\Leon - Stuck Tickets Update\StuckTicketTransfer\StuckTicketTransfer\obj\Debug\StuckTicketTransfer.exe
+C:\ipaccman\UPGRADE\developments\Leon - Stuck Tickets Update\StuckTicketTransfer\StuckTicketTransfer\obj\Debug\StuckTicketTransfer.pdb
